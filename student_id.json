@@ -1,18 +1,17 @@
-[
-  {
+ [
+   {
+    "id": 1,
+    "name": "Leanne Graham",
     "class": {
-      "grade":"1",
-      "sec":"2"
+      "grade": "1",
+      "sec": "2"
     },
-    "username": "Bret",
-    "id": "19543",
-    "score-subject": {
-      "good": "12",
-      "sciene": "Apt. 556",
-      "english": "Gwenborough",
-      "zipcode": "92998-3874"
-    },
-    "habit-score": "100",
-    "grid": "hildegard.org"
+    "phone": "1-770-736-8031 x56442",
+    "habit": "hildegard.org",
+    "score": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
   }
-]
+ ]
