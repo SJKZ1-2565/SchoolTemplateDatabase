@@ -1,6 +1,6 @@
  [
    {
-    "id": 1,
+    "id": "1",
     "name": "Leanne Graham",
     "class": {
       "grade": "1",
@@ -8,6 +8,21 @@
     },
     "phone": "1-770-736-8031 x56442",
     "habit": "hildegard.org",
+    "score": {
+      "name": "Romaguera-Crona",
+      "catchPhrase": "Multi-layered client-server neural-net",
+      "bs": "harness real-time e-markets"
+    }
+  },  
+  {
+    "id": "2",
+    "name": "Fuck You",
+    "class": {
+      "grade": "1",
+      "sec": "2"
+    },
+    "phone": "1-31231736-123 x56442",
+    "habit": "asd.org",
     "score": {
       "name": "Romaguera-Crona",
       "catchPhrase": "Multi-layered client-server neural-net",
